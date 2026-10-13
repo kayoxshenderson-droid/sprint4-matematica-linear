@@ -123,7 +123,8 @@ Challenge-Sprint-4/
 
 No vídeo são apresentados o desenvolvimento do projeto, a análise dos dados, o modelo utilizado e os resultados obtidos.
 
-🔗 **[Assistir ao vídeo no YouTube](COLE_AQUI_O_LINK_DO_YOUTUBE)**
+🔗 **[Assistir ao vídeo no YouTube]([COLE_AQUI_O_LINK_DO_YOUTUBE](https://youtu.be/HjEJut5B504
+))**
 
 ---
 
